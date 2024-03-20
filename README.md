@@ -11,7 +11,7 @@ The testing is going on different systems.
 
 # Parameters
 There are 5 parameters after command ```python``` (windows) or ```python3``` (Linux) : <br>
-1. TextGuardian.py - The tool file.<br>
+1. HexArmor.py - The tool file.<br>
 2. **-e** - Encode the input.<br>
 3. **-d** - Decode the input.<br>
 4. **-p password** - The password set on the text/text file.<br>
